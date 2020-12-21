@@ -203,11 +203,6 @@ img {
   opacity: 1.0;
 }
 
-svg {
-  overflow: hidden;
-  vertical-align: middle;
-}
-
 table {
   border-collapse: collapse;
 }
